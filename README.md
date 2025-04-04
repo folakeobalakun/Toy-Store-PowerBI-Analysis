@@ -84,4 +84,6 @@ By implementing a star schema data model, defining key DAX calculations, and vis
 
 ![Power BI Dashboard Preview](https://github.com/folakeobalakun/Toy-Store-PowerBI-Analysis/blob/main/Toy%20store%20Project-1.png)  
 
-📄 **Full Report:** [View the PDF Report](https://github.com/folakeobalakun/Toy-Store-PowerBI-Analysis/blob/main/Toy%20store%20Project.pdf)
+📄 **Full Report:** ## 📂 Power BI Project File
+[🔗 Click here to download the .pbix file](https://github.com/folakeobalakun/Toy-Store-PowerBI-Analysis/blob/main/Toy%20store%20Project.pbix)
+
